@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theMarlonski
 - 👀 I’m interested in programming, data analysis, finances, and a lot else.
 - 🌱 I’m currently learning more Python, and want to learn Java Script and SQL.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open to collaborate and trying to always learn some new stuff.
 - 📫 How to reach me ...
 
 <!---

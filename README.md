@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @theMarlonski
-- 👀 I’m interested in programming, data analysis and data science, finances, and a lot else.
-- 🌱 I’m currently learning more Python, R, SQL. 
-- 💞️ I’m open to collaborate and trying to always learn some new stuff.
-- 📫 How to reach me ...
+- 👀 I’m interested in programming, data analysis and data science, finance, AGI, LLMs and a lot else.
+- 🌱 I’m currently learning more Python, R, SQL, React, JS, HTML and CSS.
+- 💞️ I’m open to collaborating and trying to always learn some new stuff.
 
 <!---
 theMarlonski/theMarlonski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
